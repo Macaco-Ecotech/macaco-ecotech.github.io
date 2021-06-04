@@ -1,8 +1,6 @@
 /**
-* Template Name: Knight - v4.3.0
-* Template URL: https://bootstrapmade.com/knight-free-bootstrap-theme/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* Project Name: Macaco Ecotech - V1.0.0
+* Author: Glauco Máximo
 */
 (function() {
   "use strict";
