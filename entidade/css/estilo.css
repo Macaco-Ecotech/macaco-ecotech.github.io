@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #macaco h2 {
-  color: #aeaeae;
+  color: #ffffff;
   margin-bottom: 30px;
   font-size: 14px;
   font-weight: 400;
@@ -148,4 +148,39 @@ section {
 .section-title p {
   margin-bottom: 0;
   color: #aeaeae;
+}
+
+#macaco .macaco-container .social-links {
+  margin-top: 30px;
+}
+
+#macaco .macaco-container .social-links a {
+  font-size: 18px;
+  display: inline-block;
+  background: #7cc576;
+  color: #fff;
+  line-height: 1;
+  padding: 8px 0;
+  margin-right: 4px;
+  border-radius: 50%;
+  text-align: center;
+  width: 36px;
+  height: 36px;
+  transition: 0.3s;
+}
+
+#rodape .macaco-container .social-links a:hover {
+  background: #5ab652;
+  color: #fff;
+  text-decoration: none;
+}
+
+.direito {
+  text-align: center;
+}
+
+.credito {
+  text-align: center;
+  font-size: 13px;
+  padding-top: 5px;
 }
