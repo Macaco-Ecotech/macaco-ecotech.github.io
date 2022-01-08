@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: macaco.eco.br
+Token: a5bb3660af2af1779e4d28aee88e316339327a2c5d66d3d5926e26e840303b9f
